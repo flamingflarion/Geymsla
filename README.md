@@ -10,6 +10,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAASÆFÐAÆA
 lllllllldllldllldllldllld
 SENDING
 númer 10
+Hvað er Markdown format og til hvers er það notað sýnið dæmi?
+Markdown format er notað til að breyta texta eða láta hann líta vel út
+
 [I'm an inline-style link](https://www.google.com)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
