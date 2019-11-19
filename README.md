@@ -12,7 +12,7 @@ SENDING
 númer 10
 Hvað er Markdown format og til hvers er það notað sýnið dæmi?
 Markdown format er notað til að breyta texta eða láta hann líta vel út
-  * [Mynd af Markdown Format af netinu](../blob/master/Github%20markdown.png)
+  * [Mynd af Markdown Format af netinu](../master/Github%20markdown.png)
 
 [I'm an inline-style link](https://www.google.com)
 
