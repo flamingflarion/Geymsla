@@ -18,4 +18,5 @@ git branch - sýnir hvaða branch þú ert á
 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT? - "Working Directory" geymir breytingar en "Staging Area" geymir ekki fyrri breytingar(sem sparar minni)
 þetta er loka svar
 Þetta er loka svar.v2
+#gaman
 
