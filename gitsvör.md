@@ -1,8 +1,8 @@
 
 1. Hvað gera eftir farandi Linux skipanir
 cd -> change directory
-ls - skoðar files sem eru í directory sem þú ert staddur í/ og er notuð til að keyra margar skipanir
-pwd - sýnir allt sem er í pathinu þínu
+ls - skoðar files sem eru í directory sem þú ert staddur í og eru notuð til að keyra margar skipanir
+pwd - sýnir allt sem er á pathinu þínu
 mkdir - Býr til directories "Make Directory"
 2. Hvað gera eftirfarandi Git skipanir?
 git clone - gerir copy af github/tölvu
@@ -19,4 +19,4 @@ git branch - sýnir hvaða branch þú ert á
 þetta er loka svar
 Þetta er loka svar.v2
 #gaman
-
+Þetta er loka svar.final
