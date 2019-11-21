@@ -5,9 +5,9 @@ ls - skoðar files sem eru í directory sem þú ert staddur í/ og er notuð ti
 pwd - sýnir allt sem er í pathinu þínu
 mkdir - make directory
 2. Hvað gera eftirfarandi Git skipanir?
-git clone - gerir aðra alveg eins skrá
-git status - sér hvaða version þú/github eru á 
-git diff - sérð öll changes made
+git clone - gerir copy af github/tölvu
+git status - sér hvaða version tölva/github eru á 
+git diff - sérð allar breytingar sem hafa verið skráðar
 3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gang er að þeirri aðgerð?
 git log - Sýnir fullar breytingar frá hverjum og kl hvað 
 git checkout - Skoðar hvort þú sért á sama version
